@@ -1,0 +1,26 @@
+DSA Questions
+Write a C program to find the maximum and minimum numbers in an array.
+Write a C program to check if a specific number is present in an array.
+Write a C program to find the maximum of three numbers.
+Write a C program which takes grade and display marks range with switch case.
+Write a C program that prints a multiplication table (nested loop).
+Write a C program that prints patterns of numbers.
+
+1
+1  2
+1  2  3
+1  2  3  4
+
+Write a C and C++ program that prints alphabets patterns.
+		a
+a  b
+a  b  c
+a  b  c  d
+
+Write a C program to find the maximum value in an array of 10 elements using pointers.
+Write a C program to search for an element in an array of 10 elements using pointers. If the element is found, display "Found", otherwise display "Not Found."
+Write a C program that asks the gender and salary of an employee, and calculates their tax based on their gender.
+Write a C program that asks the gender and salary of an employee, and calculates their tax using separate functions for males and females.
+Write a program adding two arrays and sum to the third array.
+Create two 2-D arrays and sum to third Array.
+Create a 2D- Square Array and then create another transpose array.
