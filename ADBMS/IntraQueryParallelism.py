@@ -4,7 +4,7 @@ import random
 from concurrent.futures import ThreadPoolExecutor
 
 class ParallelSortSimulation:
-#sf
+
     def __init__(self, data_size=10000, num_workers = 4):
         self.data_size = data_size
         self.num_workers = num_workers
