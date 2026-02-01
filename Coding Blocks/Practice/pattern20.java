@@ -8,19 +8,17 @@ public class pattern20 {
             //space
             int i = 0;
             while(i<space){
-                System.out.print("  ");
+                System.out.print(" ");
                 i++;
             }
-            //star
-            System.out.print("* ");
-            //another space
+            System.out.print("*");
             if(spacein>0){
-                int j =0;
+                int j = 0;
                 while(j<spacein){
-                    System.out.print("  ");
+                    System.out.print(" ");
                     j++;
                 }
-                System.out.print("* ");
+                System.out.print("*");
             }
 
             //nextLine
@@ -33,7 +31,6 @@ public class pattern20 {
                 space++;
                 spacein-=2;
             }
-
         }
-    }
+    }    
 }
