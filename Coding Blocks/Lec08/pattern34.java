@@ -1,4 +1,4 @@
-public class pattern33 {
+public class pattern34 {
     public static void main(String[] args) {
         int n =10;
         int rows =1;

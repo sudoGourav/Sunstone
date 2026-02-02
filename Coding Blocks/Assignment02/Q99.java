@@ -1,4 +1,4 @@
-public class Q1{
+public class Q99{
     public static void main(String[] args){
         int n = 5;
         int row = 0;
