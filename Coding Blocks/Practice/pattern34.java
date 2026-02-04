@@ -1,10 +1,13 @@
 public class pattern34 {
     public static void main(String[] args) {
         int n = 10;
+
+
         int num = 1;
-        int row = 0;
         int space = n-1;
         int star = 1;
+
+        int row = 0;
         while(row<n){
             //space
             int i = 0;
