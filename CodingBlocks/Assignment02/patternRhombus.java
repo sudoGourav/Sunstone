@@ -4,7 +4,6 @@ public class patternRhombus{
         int space = n-1;
         int star = 1;
         int num = 1;
-        int jnum = num;
         
 
         int row = 0;
