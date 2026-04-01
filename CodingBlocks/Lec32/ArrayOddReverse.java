@@ -19,5 +19,8 @@ public class ArrayOddReverse{
             }
             System.out.println();
         }
+
+        System.out.println(arr.length);
+        System.out.println(arr[0].length);
     }
 }
